@@ -13,3 +13,8 @@ Usage
 5.  Add your blocklist items to the `main.bicep` file in the modules directory.
 6.  Deploy the Bicep configuration: az deployment sub create --location <location> --template-file main.bicep Replace `<location>` with the desired Azure region for the deployment.
 7.  After the deployment is complete, you can start using the Azure OpenAI model with the configured content filter and blocklist.
+
+Open issues
+-----
+- The current attempt to redeploy the bicep file is failing.
+- Managing the block list with a bicep file is not optimal; a CSV file would be preferable.
