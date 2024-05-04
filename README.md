@@ -3,13 +3,6 @@ Azure OpenAI Deployment with Content Filter and Blocklist
 
 This Bicep module deploys an Azure OpenAI model with a custom content filter and a blocklist.
 
-Prerequisites
--------------
-
--   Azure subscription
--   Azure CLI installed
--   Bicep CLI installed
-
 Usage
 -----
 
