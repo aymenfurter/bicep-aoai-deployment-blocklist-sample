@@ -2,13 +2,14 @@ Azure OpenAI Deployment with Content Filter and Blocklist
 =========================================================
 
 This Bicep module deploys an Azure OpenAI model with a custom content filter and a blocklist.
-This code is work in progress. Currently the 
 
 > [!WARNING]
-> This code base is still being developed. Currently, the resource can be deployed:  
+> This code base is still being developed. Currently, the resource can be deployed:
+> 
 > ![Preview](preview.png)
 > 
 > but there is an error after the deployment:
+> 
 > ![Deployment Error](deployment.png)
 
 Prerequisites
