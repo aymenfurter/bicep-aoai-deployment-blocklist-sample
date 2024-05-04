@@ -21,7 +21,7 @@ Prerequisites
 Usage
 -----
 
-1.  Clone the repository: git clone <https://github.com/example/openai-deployment.git> cd openai-deployment
+1.  Clone the repository: git clone <https://github.com/aymenfurter/terraform-aoai-deployment-blocklist-sample.git> cd openai-deployment
 2.  Log in to your Azure account using the Azure CLI: az login
 3.  Set the target Azure subscription: az account set --subscription <subscription-id>
 4.  Modify the `main.bicep` file in the root directory with your desired configuration.
